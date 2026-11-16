@@ -60,7 +60,7 @@ export const clientOrganizations = [
   { id: "amsterdam-umc", name: "Amsterdam UMC", logo: amsterdamUmcLogo, url: "https://www.steunamsterdamumc.nl/stichting-amc-foundation", type: "charity" },
   { id: "vlinderkind", name: "Vlinderkind", logo: vlinderkindLogo, url: "https://www.vlinderkind.nl/", type: "charity" },
   { id: "stichting-als", name: "Stichting ALS", logo: alsLogo, url: "https://www.als.nl", type: "charity" },
-  { id: "feyenoord-foundation", name: "Feyenoord Foundation", logo: feyenoordFoundationLogo, url: "https://www.feyenoord.nl/maatschappelijk/over-ons/feyenoord-foundation", type: "charity" },
+  { id: "feyenoord-foundation", name: "Feyenoord Foundation", logo: feyenoordFoundationLogo, url: "https://www.feyenoord.com/nl/maatschappelijk/organisatie/feyenoord-foundation", type: "charity" },
   { id: "steun-emma", name: "Steun Emma", logo: emmaLogo, url: "https://www.steunemma.nl", type: "charity" },
   { id: "impact-matters", name: "Impact Matters", logo: impactMattersLogo, url: "https://www.impactmatters.nl", type: "charity" },
   { id: "papageno", name: "Papageno", logo: papagenoLogo, url: "https://www.papageno.nl/", type: "charity" },

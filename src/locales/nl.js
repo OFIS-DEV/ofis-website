@@ -51,7 +51,6 @@ export default {
     quickLinks: "Snelkoppelingen",
     legal: "Juridisch",
     contact: "Contact",
-    tariff: "Vaste vergoeding voor stichtingen",
     termsOrchestra: "Algemene Voorwaarden Orchestra B.V.",
     termsGA: "Algemene Voorwaarden Orchestra G&A",
     termsMyOrchestra: "Algemene Voorwaarden MyOrchestra BV",

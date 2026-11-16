@@ -2,9 +2,11 @@ import SectionWrapper from "../layout/SectionWrapper";
 import AnimatedSection from "../animation/AnimatedSection";
 import Button from "../ui/Button";
 import { useLanguage } from "../../context/LanguageContext";
+import { getSiteMetadata } from "../../data/siteMetadata";
 
 export default function CTASection({ title, subtitle }) {
-  const { t } = useLanguage();
+  const { language, t } = useLanguage();
+  const meta = getSiteMetadata(language);
 
   const resolvedTitle = title || t("home", "ctaTitle");
   const resolvedSubtitle = subtitle || t("home", "ctaSubtitle");
@@ -21,7 +23,7 @@ export default function CTASection({ title, subtitle }) {
             {t("common", "contactUs")}
           </Button>
           <Button
-            href="https://linkedin.com/company/orchestra-family-charity-office"
+            href={meta.linkedin}
             external
             variant="outline-light"
             size="lg"

@@ -46,7 +46,6 @@ export default {
     quickLinks: "Quick Links",
     legal: "Legal",
     contact: "Contact",
-    tariff: "Fixed fee for foundations",
     termsOrchestra: "General Terms Orchestra B.V.",
     termsGA: "General Terms Orchestra G&A",
     termsMyOrchestra: "General Terms MyOrchestra BV",
