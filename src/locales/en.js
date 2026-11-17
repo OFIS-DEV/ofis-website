@@ -401,8 +401,8 @@ export default {
     heroTitle: "The people behind the Charity Office.",
     heroDescription:
       "Our team combines decades of experience from institutional financial services with a genuine connection to the foundations sector. No generic department, no temporary charity practice — dedicated specialists who work here because they want to work here.",
-    gridEyebrow: "Meet some of our people",
-    gridTitle: "Some of our people.",
+    gridEyebrow: "Our people",
+    gridTitle: "Meet our team.",
     gridSubtitle:
       "Our portfolio managers come from institutional investing backgrounds: pension funds, university endowments, fiduciary management. Our controllers and accountants come from Big Four and foundation backgrounds. Our governance and compliance specialists work from ANBI, CBF and board advisory practices. The common denominator: everyone has worked for or with foundations before — or both.",
     cultureEyebrow: "Our culture",
