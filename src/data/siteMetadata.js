@@ -10,6 +10,13 @@ const base = {
   email: "contact@orchestra-contact.com",
   linkedin: "https://www.linkedin.com/company/orchestra-familycharityoffice/",
   myOrchestra: "https://ofis.orchestrabeheer.nl/Ofis/Client",
+  // Sister site, shown as switch link in navbar and mobile menu
+  otherSite: {
+    label: "Private Office",
+    // Short form for desktop navbar, matches "Charity" on the private site
+    navLabel: "Private",
+    url: "https://www.orchestra-privateoffice.com/",
+  },
 };
 
 const data = {
